@@ -11,5 +11,13 @@
             "email": "bob@bobmoore.dev"
         }
     ],
-    "packages": {}
+    "repositories": [
+        {
+            "url": "https://github.com/bob-moore/devkit-wp-skeleton",
+            "type": "git"
+        }
+    ],
+    "packages": {
+        "devkit/wp-skeleton": "^1.0"
+    }
 }
